@@ -12,9 +12,6 @@ p, li {
     line-height: 2;
     letter-spacing: 1px;
 }
-a {
-    font-size: 13px;
-}
 body {
     width: 600px;
     margin: 0 auto;
